@@ -1,100 +1,29 @@
-# Python Data Science Portfolio
+# Python & Data Science Learning
 
-A collection of my Python programming, NumPy, Pandas, and Exploratory Data Analysis (EDA) practice.
+Coursework and practice notebooks from my Software Engineering degree: Python fundamentals,
+NumPy, Pandas and exploratory data analysis. This is a learning log, not production code.
+My applied AI work lives in my other repositories.
 
-This repository contains the exercises, assignments, and notebooks I worked on while learning Python and the fundamentals of Data Science.
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white)
 
-## What This Repository Covers
+## Structure
 
-- Python Programming
-- Python Functions
-- Conditions and Loops
-- Built-in Functions
-- Collections
-- Object-Oriented Programming (OOP)
-- NumPy
-- Pandas
-- DataFrames
-- Data Manipulation
-- Data Visualization
-- Exploratory Data Analysis (EDA)
+| Folder | What is inside |
+|---|---|
+| [`python-fundamentals/`](python-fundamentals) | Functions, collections, OOP (inheritance, properties, abstraction), decorators, assignments and quizzes |
+| [`numpy/`](numpy) | Multidimensional arrays, indexing, fancy indexing |
+| [`pandas/`](pandas) | DataFrames, GroupBy, alignment |
+| [`eda-and-visualization/`](eda-and-visualization) | Exploratory data analysis, charts, automated profiling with YData |
+| [`reports/`](reports) | Generated YData profiling reports (HTML) for the car, iris and penguins datasets |
 
-## Technologies and Libraries
+## Libraries
 
-- Python
-- NumPy
-- Pandas
-- Matplotlib
-- Seaborn
-- Jupyter Notebook
-
-## Repository Contents
-
-### Python Fundamentals
-
-- `Abstraction.py` - Abstraction practice
-- `Conditions.py` - Conditional statements practice
-- `Functions.py` - Python functions
-- `BuiltinFunctions.py` - Python built-in functions
-- `Collections.py` - Python collections
-- `Destructuring.py` - Destructuring practice
-- `Slicing.py` - Slicing practice
-- `CombinedPractice.py` - Combined Python practice
-- `Properties.py` - Python properties
-- `Methods.py` - Method practice
-- `Inheritance.py` - Inheritance and OOP
-- `Student.py` - Student class practice
-- `FinalAssignment.py` - Final Python assignment
-- `Assignment3.ipynb` - Python assignment
-- `Practice.ipynb` - General Python practice
-- `Quiz.ipynb` - Python quiz practice
-
-### NumPy
-
-- `NumpyAss1.ipynb` - NumPy assignment
-- `NumpyAss1 copy.ipynb` - NumPy practice copy
-- `MultiDim.ipynb` - Multidimensional arrays
-- `MultiIndexing.ipynb` - NumPy indexing
-- `FancyIndex.ipynb` - Fancy indexing
-
-### Pandas
-
-- `Pandas.ipynb` - Pandas practice
-- `DataFrames.ipynb` - DataFrame operations
-- `GroupBy.ipynb` - GroupBy operations
-- `Alignment.ipynb` - Data alignment
-
-### Data Visualization and EDA
-
-- `Eda.ipynb` - Exploratory Data Analysis
-- `EdaAllGraphs.ipynb` - EDA and different graphs
-- `Linegraph.ipynb` - Line graph visualization
-- `Demo.ipynb` - Data Science practice and demonstrations
-
-## Purpose
-
-The purpose of this repository is to document my learning journey in Python and Data Science.
-
-I am continuously adding new practice work, assignments, notebooks, and projects as I improve my skills.
-
-## Future Learning
-
-I plan to expand this repository with:
-
-- Advanced Data Analysis
-- Machine Learning
-- Scikit-learn
-- More EDA Projects
-- Real-world Datasets
-- Data Visualization Projects
-- Machine Learning Projects
+Python, NumPy, Pandas, Matplotlib, Seaborn, ydata-profiling, Jupyter.
 
 ## Author
 
-**Muhammad Sajid**
-
-Software Engineering Student | Aspiring AI Engineer
-
----
-
-⭐ This repository represents my learning journey and practical work in Python and Data Science.
+**Muhammad Sajid** — BS Software Engineering student, AI Engineer at RevHub System.
+[LinkedIn](https://www.linkedin.com/in/muhammad-sajid-537518361)
